@@ -42,15 +42,15 @@ intuitive interface.
 
 ![Dashboard](screenshots/01-Dashboard.png)
 
-![Dashboard](screenshots/02-0-Hardware.png)
+![Hardware](screenshots/02-0-Hardware.png)
 
-![Dashboard](screenshots/02-1-Hardware.png)
+![Hardware Edit](screenshots/02-1-Hardware.png)
 
-![Dashboard](screenshots/08-Herramientas.png)
+![Tools](screenshots/08-Herramientas.png)
 
-![Dashboard](screenshots/09-Importar.png)
+![Import](screenshots/09-Importar.png)
 
-![Dashboard](screenshots/10-Excel.png)
+![Excel](screenshots/10-Excel.png)
 
 ## System Requirements
 
@@ -59,7 +59,7 @@ intuitive interface.
 
 ## Documentation
 
-The complete User Manual is included with the installer.
+The complete User Manual is included with the installer or you can download ![here](docs/InfraNoteIT Manual.pdf).
 
 ## Download
 
