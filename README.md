@@ -1,5 +1,7 @@
 # InfraNoteIT
 
+![Dashboard](screenshots/00-Conver.png)
+
 > Professional IT infrastructure inventory and documentation for
 > Windows.
 
@@ -38,7 +40,17 @@ intuitive interface.
 
 ## Screenshots
 
-*Add screenshots of the application here.*
+![Dashboard](screenshots/01-Dashboard.png)
+
+![Dashboard](screenshots/02-0-Hardware.png)
+
+![Dashboard](screenshots/02-1-Hardware.png)
+
+![Dashboard](screenshots/08-Herramientas.png)
+
+![Dashboard](screenshots/09-Importar.png)
+
+![Dashboard](screenshots/10-Excel.png)
 
 ## System Requirements
 
@@ -51,7 +63,7 @@ The complete User Manual is included with the installer.
 
 ## Download
 
-Available on Gumroad. Add your product link here.
+[Available on Gumroad.](https://fernandz0227.gumroad.com/l/wwbwox)
 
 ## Roadmap
 
