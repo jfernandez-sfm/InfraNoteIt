@@ -59,7 +59,8 @@ intuitive interface.
 
 ## Documentation
 
-The complete User Manual is included with the installer or you can download ![here](docs/InfraNoteIT Manual.pdf).
+The complete User Manual is included with the installer or you can download in the following link.
+[Download Manual](docs/InfraNoteIT_Manual.pdf).
 
 ## Download
 
